@@ -1,0 +1,14 @@
+{
+    "emailerrData": {
+        "userName": "tangyuan",
+        "password": "tvxqsj123",
+        "repassword": "tvxqsj123",
+        "email": "2569867157@qq.com"
+    },
+    "passworderrData":{
+        "userName": "imtom",
+        "password": "1234567890",
+        "repassword": "654321ddddd",
+        "email": "235345@163.com"
+    }
+}
