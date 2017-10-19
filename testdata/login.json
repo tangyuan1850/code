@@ -1,0 +1,25 @@
+{
+    "userinfo_success":[
+        {"username":"tangyuan","password":"tvxqsj123"}
+    ],
+"userinfo_err":[{
+    "username":"tangyuan",
+    "password":"123456",
+    "errortip":"密码错误"
+},{
+  "username":"tangyuan123",
+    "password":"tvxqsj123",
+    "errortip":"用户不存在"  
+},{
+    "username":"",
+     "password":"123456",
+    "errortip":"输入用户名"
+},{
+    "username":"tangyuan",
+     "password":"",
+    "errortip":"输入密码"
+},{
+    "username":"tangyuan",
+     "password":"",
+    "errortip":"输入密码"}]
+}
